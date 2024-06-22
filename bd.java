@@ -59,7 +59,7 @@ public class bd
             }
             tmp[k]=dividend[i+divislen];
         }
-        System.out.println("\nRemainder is:");
+        System.out.print("\nRemainder is:");
         for(j=1;j<divislen;j++)
         {
             System.out.println(tmp[j]);
